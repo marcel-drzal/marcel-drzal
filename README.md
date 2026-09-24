@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcel-drzal
-- 👀 I’m interested in HomeAssistant, iObroker, Raspberry, Nuc, Tasmota and KNX.
-- 🌱 I’m currently learning Netwerk and House automation.
-- 💞️ I’m looking to collaborate on all the topics over on.
+- 👀 I’m interested in Home Assistant, ioBroker, Raspberry Pi, Intel NUC, Tasmota and KNX.
+- 🌱 I’m currently learning networking and home automation.
+- 💞️ I’m looking to collaborate on all of these topics.
 - 📫 How to reach me marcel.drzal@me.com
 
  
